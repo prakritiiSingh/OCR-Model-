@@ -1,0 +1,13 @@
+torch>=2.0.0
+transformers>=4.35.0
+datasets>=2.15.0
+evaluate
+pillow
+tqdm
+pytesseract
+opencv-python
+scikit-learn
+seqeval
+numpy
+accelerate
+scipy

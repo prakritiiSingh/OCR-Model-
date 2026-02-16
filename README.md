@@ -187,8 +187,8 @@ streamlit run src/app.py
 
 ## Contact / Author
 
-* Maintainer: Your name
-* Email: [your.email@example.com](mailto:your.email@example.com)
+* Maintainer: Prakriti
+* Email: prakriti14a14j@gmail.com
 
 ---
 
